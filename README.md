@@ -39,8 +39,8 @@ Here are a few highlights:
 
 ## 📈 GitHub Stats
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickrimomo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrimomo&layout=compact&theme=tokyonight)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimosto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimosto&layout=compact&theme=tokyonight)
 
 ---
 
