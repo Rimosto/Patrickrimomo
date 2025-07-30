@@ -53,4 +53,4 @@ I enjoy turning real-world ideas into coded solutions and continuously challenge
 ## 🌐 Let's Connect
 
 - 🔗 Website: [www.rimosto.com](http://www.rimosto.com)
-- 💼 LinkedIn: [Patrick Rimomo](https://www.linkedin.com/in/patrick-rimomo)
+- 💼 LinkedIn: [Patrick Rimomo](https://www.linkedin.com/in/patrick-rimomoh)
